@@ -3,6 +3,8 @@
 2. Howard University 
 3. Data Science Ideas
 ###Healthcare 
--Career 
--Education 
--Sports
+- Career 
+- Education 
+- Sports
+
+-Practice stuff 
